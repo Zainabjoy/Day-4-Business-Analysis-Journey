@@ -1,4 +1,4 @@
-# 4 – Business Analysis Journey
+# Day 4 – Business Analysis Journey
 This week, I explored advanced analytical concepts used in decision-making, focusing on trendline modeling and Net Present Value (NPV) analysis.
 
 I learned to apply different types of trendlines in Excel — including linear, exponential, and power models — to understand data patterns and forecast outcomes. Each model helps interpret relationships between variables based on best-fit equations.
